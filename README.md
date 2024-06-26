@@ -8,16 +8,16 @@
 
 </center>
 
-<h1 align="center">MAC MD</h1>
+<h1 align="center">MSELA PAKA MDX</h1>
  
 ## Join my channel for updates and get free cc
-<a href="https://whatsapp.com/channel/0029VaWGyGVJZg48vgpHBa31" target="_blank">
+<a href="https://whatsapp.com/channel/0029VafeCKHKmCPMtW3bFA08" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p> 
 
 ## DEPLOYMENT STEPS
-1,TAP ON MAC APP
+1,TAP ON MSELA PAKA APP
 
 
 
@@ -38,9 +38,9 @@
  <hr>
  
 ## DEVELOPE𝙍S
-[`𝙈𝘼𝘾 𝙏𝙀𝘾𝙃`](https://wa.me/256705036288)
+[`𝙈𝘼𝘾 𝙏𝙀𝘾𝙃`](https://wa.link/1eyv9w)
 
-[`𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝙏𝙀𝘾𝙃`](https://www.youtube.com/@ibrahimmdgpt)
+[`𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝙏𝙀𝘾𝙃`](https://www.youtube.com/@freeonlinetvT1)
 
 
 
