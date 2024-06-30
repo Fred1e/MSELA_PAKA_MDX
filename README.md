@@ -41,7 +41,7 @@
   
  **CLICK HERE 👇 TO PAIR AND DEPLOY**
  
-  <a href="https://fredietechpaka-6f1d0c190e96.herokuapp.com/"><img src="https://img.shields.io/badge/Pair%20session%20code-pupple" alt="MSELA PAKA APP" width="150"></a>
+  <a href="https://fredietechpaka-6f1d0c190e96.herokuapp.com/"><img src="https://img.shields.io/badge/Pair%20session%20code-blue" alt="MSELA PAKA APP" width="150"></a>
 
 **CLICK HERE 👇 TO SCAN QR**
 
