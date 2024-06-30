@@ -45,11 +45,11 @@
 
 **CLICK HERE 👇 TO SCAN QR**
 
-<a href="https://fredietechpaka-6f1d0c190e96.herokuapp.com/qr"><img src="https://img.shields.io/badge/QR%20session%20code-green" alt="𝐐𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
+<a href="https://fredietechpaka-6f1d0c190e96.herokuapp.com/qr"><img src="https://img.shields.io/badge/QR%20session%20code-dark blue" alt="𝐐𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
 
 **CLICK HERE 👇 TO WATCH TUTORIAL**
 
-<a href="https://www.youtube.com/@freeonlinetvT1"><img src="https://img.shields.io/badge/WATCH%20FULL%20TUTORIAL-bright red" alt="FULL TUTORIAL HERE" width="150"></a>
+<a href="https://www.youtube.com/@freeonlinetvT1"><img src="https://img.shields.io/badge/WATCH%20FULL%20TUTORIAL-red" alt="FULL TUTORIAL HERE" width="150"></a>
 
 ## 4. DEPLOY NOW ON HEROKU 
 <h1 align="center">
