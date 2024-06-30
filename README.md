@@ -35,18 +35,37 @@
  
 **CLICK HERE 👇 TO FORK**
 
-<a href="https://github.com/Fred1e/MSELA_PAKA_MDX/fork"><img src="https://img.shields.io/badge/Fork%20Fredimd%20Repo-yellow" alt="MSELA_PAKA_MDX REPO" width="150"></a>
+<a href="https://github.com/Fred1e/MSELA_PAKA_MDX/fork"><img src="https://img.shields.io/badge/Fork%20Fredimd%20Repo-gold" alt="MSELA_PAKA_MDX REPO" width="150"></a>
 
 ## GET YOUR SESSION ID AND DEPLOY:
   
  **CLICK HERE 👇 TO PAIR AND DEPLOY**
  
-  <a href="https://fredietechpaka-6f1d0c190e96.herokuapp.com/"><img src="https://img.shields.io/badge/Pair%20session%20code-green" alt="MSELA PAKA APP" width="150"></a>
+  <a href="https://fredietechpaka-6f1d0c190e96.herokuapp.com/"><img src="https://img.shields.io/badge/Pair%20session%20code-bright blue" alt="MSELA PAKA APP" width="150"></a>
 
 **CLICK HERE 👇 TO SCAN QR**
 
-<a href="https://fredietechpaka-6f1d0c190e96.herokuapp.com/qr"><img src="https://img.shields.io/badge/QR%20session%20code-red" alt="𝐐𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
+<a href="https://fredietechpaka-6f1d0c190e96.herokuapp.com/qr"><img src="https://img.shields.io/badge/QR%20session%20code-green" alt="𝐐𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
 
 **CLICK HERE 👇 TO WATCH TUTORIAL**
 
-<a href="https://www.youtube.com/@freeonlinetvT1"><img src="https://img.shields.io/badge/WATCH%20FULL%20TUTORIAL-red" alt="FULL TUTORIAL HERE" width="150"></a>
+<a href="https://www.youtube.com/@freeonlinetvT1"><img src="https://img.shields.io/badge/WATCH%20FULL%20TUTORIAL-bright red" alt="FULL TUTORIAL HERE" width="150"></a>
+
+## 4. DEPLOY NOW ON HEROKU 
+<h1 align="center">
+
+***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Fred1e/MSELA_PAKA-MD)***
+
+## License
+
+The WhatsApp Bot FREDI_MD is released under the [MIT License](https://opensource.org/licenses/MIT).
+
+🌟 THANK YOU FOR CHOOSING MSELA_PAKA-MDX🌟
+
+## DEVELOPERS :
+
+- [**FREDIE TECH**](https://github.com/Fred1e)
+- [**FREDIE TECH TIKTOK**](https://www.tiktok.com/@frediezra?_t=8mRwDPPcKTm&_r=1)
+- [**FREDIE TECH YOUTUBE**](https://www.youtube.com/@freeonlinetvT1)
+  
+★THANK YOU GOD FOR THAT MOMENT🙏. ©
